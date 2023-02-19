@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "alchemy-sdk": "^2.4.3",
+    "dotenv": "^16.0.3",
+    "ethers": "5.4.0",
+    "etherscan-api": "^10.3.0"
+  },
+  "name": "Alchemy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module"
+}
